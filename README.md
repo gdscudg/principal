@@ -4,9 +4,8 @@ Aquest repositori serà el lloc a on es pugin els diferents recursos que necessi
 
 La idea és que als issues d'aquest repositori qualsevol pugui proposar un esdeveniment, projecte o millora. És la manera ideal d'arribar a tothom, ja que aquests es publiquen directament al grup de difusió de Telegram. A continuació hi ha una plantilla per tal d'escriure els issues:
 
-```md
-
-### Títol de la proposta
+```
+Títol de la proposta
 
 Tipus de la proposta:
 - [ ] Vull proposar un esdeveniment
