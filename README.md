@@ -9,12 +9,14 @@ Títol de la proposta
 
 Tipus de la proposta:
 - [ ] Vull proposar un esdeveniment
+- [ ] Vull proposar un curs d'aprenentatge
+- [ ] Vull proposar un projecte
 - [ ] Vull proposar una xerrada
 - [ ] Vull proposar una millora
 
 Breu descripció en un o dos paràgrafs.
 
-Duració estimada ( si es un esdeveniment):
+Duració estimada (no cal si és millora):
 
 TAGS: `TAG1, TAG2, TAG3, ...`
 ```
